@@ -9,6 +9,13 @@ This repository contains code for real-time emotion detection using a webcam. Th
 * OpenCV
 
 ## Installation
-1.Clone the repository:
+1. Clone the repository:
 
-``` git clone https://github.com/your-username/emotion-detection-webcam.git ```
+``` git clone https://github.com/abhimanyuA3/emotion-detection-webcam.git ```
+
+2. Install the required dependencies:
+
+```pip install tensorflow keras opencv-python```
+
+3. Download the pre-trained model file (Emotion_Detection.h5) and place it in the project directory.
+4. 
