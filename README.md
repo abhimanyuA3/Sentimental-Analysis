@@ -11,13 +11,12 @@ This repository contains code for real-time emotion detection using a webcam. Th
 ## Installation
 
 1. Install the required dependencies:
-
-```pip install tensorflow keras opencv-python```
+  ```pip install tensorflow keras opencv-python```
 
 2. Download the pre-trained model file (Emotion_Detection.h5) and place it in the project directory.
 
 3. Run the program:
-```python emotion_detection.py```
+  ```python emotion_detection.py```
 
 ## Usage
 1.Connect a webcam to your computer.
