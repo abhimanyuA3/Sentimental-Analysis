@@ -16,7 +16,7 @@ This repository contains code for real-time emotion detection using a webcam. Th
 2. Download the pre-trained model file (Emotion_Detection.h5) and place it in the project directory.
 
 3. Run the program:
-  ```python emotion_detection.py```
+  ```python run.py```
 
 ## Usage
 1.Connect a webcam to your computer.
