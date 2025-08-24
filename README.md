@@ -19,11 +19,11 @@ This repository contains code for real-time emotion detection using a webcam. Th
   ```python run.py```
 
 ## Usage
-1.Connect a webcam to your computer.<br>
-2.Run the program as mentioned in the Installation section.<br>
-3.The webcam feed will open, and it will detect faces in real-time.<br>
-4.The predicted emotion label will be displayed on each detected face.<br>
-5.Press 'q' to quit the program.
+1. Connect a webcam to your computer.<br>
+2. Run the program as mentioned in the Installation section.<br>
+3. The webcam feed will open, and it will detect faces in real-time.<br>
+4. The predicted emotion label will be displayed on each detected face.<br>
+5. Press 'q' to quit the program.
 
 ## Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvement, please feel free to open an issue or submit a pull request.
